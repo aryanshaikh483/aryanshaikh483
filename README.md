@@ -1,4 +1,4 @@
-[![MasterHead](https://suavesol.net/wp-content/uploads/2020/04/software-it-packages-banner.png)](https://rishavchanda.io)
+[![MasterHead](file:///C:/Users/ADMIN/Downloads/Black%20Minimalist%20Motivation%20Quote%20LinkedIn%20Banner.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Aryan Shaikh</h1>
 <h3 align="center">CSE Engineering Student with a Passion for Data Science |@Rizvi College of Engineering | Python| Basic Web Development | AI Aficionado |</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174742372?e=2147483647&v=beta&t=77qfS1_SDRvCTpYp_5C4pyVrBj4Qwo-mvU7xjZ5gVtY">
