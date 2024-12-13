@@ -10,6 +10,10 @@
 
 - 📫 How to reach me **aryanshaikh483@gmail.com**
 
+- Linked in **www.linkedin.com/in/
+aryan-shaikh-a3aa9b314
+**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
