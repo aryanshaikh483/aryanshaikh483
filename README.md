@@ -10,9 +10,11 @@
 
 - 📫 How to reach me >>> **aryanshaikh483@gmail.com**
 
-- Linked in >>> **aryan-shaikh**
 
 <h3 align="left">Connect with me:</h3>
+
+- Linked in >>> **aryan-shaikh**
+- 
 <p align="left">
 </p>
 
