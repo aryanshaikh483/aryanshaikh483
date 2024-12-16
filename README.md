@@ -12,9 +12,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-
 - Linked in >>> **aryan-shaikh**
-- 
 <p align="left">
 </p>
 
