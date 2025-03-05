@@ -12,7 +12,7 @@
 
 
 <h3 align="left">Connect with me:</h3>
-- Linked in >>> **aryan-shaikh**
+- Linked in >>> **https://www.linkedin.com/in/aryan-shaikh-a3aa9b314/**
 <p align="left">
 </p>
 
