@@ -65,6 +65,4 @@ https://www.linkedin.com/in/aryan-shaikh-a3aa9b314/
 
 ---
 
-### ⚡ Fun Fact
 
-I enjoy building **AI systems that solve real-world problems**, from agriculture to legal tech.
