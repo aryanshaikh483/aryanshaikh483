@@ -20,17 +20,7 @@
 ### 🌱 Currently Learning
 
 * Scalable Backend Systems
-
----
-
-### 💬 Ask Me About
-
-* Python
-* Machine Learning Basics
-* DSA
-* Backend APIs
-* AI Projects
-
+  
 ---
 
 ### 📫 Contact Me
