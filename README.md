@@ -1,7 +1,7 @@
 ![Black Minimalist Motivation Quote LinkedIn Banner](https://github.com/user-attachments/assets/8cb8b41a-e0c1-4731-ac5a-4a88676b200f)
 
 <h1 align="center">Hi 👋, I'm Aryan Shaikh</h1>
-<h3 align="center">AI Developer | CSE Student @ Rizvi College of Engineering | Building AI Tools & Real-World Systems</h3>
+<h3 align="center">CSE Student @ Rizvi College of Engineering</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/v2/D4D12AQEQ91QyjYccMQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1721174742372?e=2147483647&v=beta&t=77qfS1_SDRvCTpYp_5C4pyVrBj4Qwo-mvU7xjZ5gVtY">
 
